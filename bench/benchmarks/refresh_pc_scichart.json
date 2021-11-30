@@ -1,0 +1,27 @@
+[
+    {
+        "_TEMPLATE": true,
+        "columns": 0,
+        "rows": 0,
+        "refreshRate": 0,
+        "fail": false,
+        "cpu": 0,
+        "fps": 0
+    },
+    {
+        "columns": 1000,
+        "rows": 1000,
+        "refreshRate": 10,
+        "fail": false,
+        "cpu": 100,
+        "fps": 7.4
+    },
+    {
+        "columns": 2000,
+        "rows": 2000,
+        "refreshRate": 10,
+        "fail": false,
+        "cpu": 100,
+        "fps": 2.2
+    }
+]

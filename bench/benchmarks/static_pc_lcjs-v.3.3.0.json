@@ -1,0 +1,57 @@
+[
+    {
+        "_TEMPLATE": true,
+        "columns": 0,
+        "rows": 0,
+        "fail": false,
+        "initialRenderMs": 0
+    },
+    {
+        "columns": 100,
+        "rows": 100,
+        "fail": false,
+        "initialRenderMs": 105
+    },
+    {
+        "columns": 1000,
+        "rows": 1000,
+        "fail": false,
+        "initialRenderMs": 125
+    },
+    {
+        "columns": 2000,
+        "rows": 2000,
+        "fail": false,
+        "initialRenderMs": 152
+    },
+    {
+        "columns": 4000,
+        "rows": 4000,
+        "fail": false,
+        "initialRenderMs": 232
+    },
+    {
+        "columns": 6000,
+        "rows": 6000,
+        "fail": false,
+        "initialRenderMs": 374
+    },
+    {
+        "columns": 8000,
+        "rows": 8000,
+        "fail": false,
+        "initialRenderMs": 614
+    },
+    {
+        "columns": 10000,
+        "rows": 10000,
+        "fail": false,
+        "initialRenderMs": 829
+    },
+    {
+        "columns": 12000,
+        "rows": 12000,
+        "fail": false,
+        "initialRenderMs": 1260
+    }
+]

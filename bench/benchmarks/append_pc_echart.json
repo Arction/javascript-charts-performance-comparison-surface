@@ -1,0 +1,35 @@
+[
+    {
+        "_TEMPLATE": true,
+        "appendSampleSize": 0,
+        "appendNewSamplesPerSecond": 0,
+        "appendTimeDomainIntervalSeconds": 0,
+        "fail": false,
+        "cpu": 0,
+        "fps": 0
+    },
+    {
+        "appendSampleSize": 10,
+        "appendNewSamplesPerSecond": 10,
+        "appendTimeDomainIntervalSeconds": 10,
+        "fail": false,
+        "cpu": 46.9,
+        "fps": 53.5
+    },
+    {
+        "appendSampleSize": 100,
+        "appendNewSamplesPerSecond": 10,
+        "appendTimeDomainIntervalSeconds": 10,
+        "fail": false,
+        "cpu": 100.0,
+        "fps": 22.2
+    },
+    {
+        "appendSampleSize": 100,
+        "appendNewSamplesPerSecond": 100,
+        "appendTimeDomainIntervalSeconds": 10,
+        "fail": false,
+        "cpu": 100.0,
+        "fps": 0.2
+    }
+]

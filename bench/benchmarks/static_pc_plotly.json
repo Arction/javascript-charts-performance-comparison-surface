@@ -1,0 +1,27 @@
+[
+    {
+        "_TEMPLATE": true,
+        "columns": 0,
+        "rows": 0,
+        "fail": false,
+        "initialRenderMs": 0
+    },
+    {
+        "columns": 100,
+        "rows": 100,
+        "fail": false,
+        "initialRenderMs": 723
+    },
+    {
+        "columns": 1000,
+        "rows": 1000,
+        "fail": false,
+        "initialRenderMs": 2008
+    },
+    {
+        "columns": 2000,
+        "rows": 2000,
+        "fail": false,
+        "initialRenderMs": 14598
+    }
+]

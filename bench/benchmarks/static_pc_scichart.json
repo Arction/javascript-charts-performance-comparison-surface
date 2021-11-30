@@ -1,0 +1,39 @@
+[
+    {
+        "_TEMPLATE": true,
+        "columns": 0,
+        "rows": 0,
+        "fail": false,
+        "initialRenderMs": 0
+    },
+    {
+        "columns": 100,
+        "rows": 100,
+        "fail": false,
+        "initialRenderMs": 331
+    },
+    {
+        "columns": 1000,
+        "rows": 1000,
+        "fail": false,
+        "initialRenderMs": 584
+    },
+    {
+        "columns": 2000,
+        "rows": 2000,
+        "fail": false,
+        "initialRenderMs": 1302
+    },
+    {
+        "columns": 4000,
+        "rows": 4000,
+        "fail": false,
+        "initialRenderMs": 4838
+    },
+    {
+        "columns": 6000,
+        "rows": 6000,
+        "fail": false,
+        "initialRenderMs": 9501
+    }
+]

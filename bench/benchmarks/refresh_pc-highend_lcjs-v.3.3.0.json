@@ -1,0 +1,42 @@
+[
+  {
+    "columns": 100,
+    "rows": 100,
+    "refreshRate": 10,
+    "fail": false,
+    "cpu": 2.5,
+    "fps": 164
+  },
+  {
+    "columns": 1000,
+    "rows": 1000,
+    "refreshRate": 10,
+    "fail": false,
+    "cpu": 5,
+    "fps": 155
+  },
+  {
+    "columns": 1000,
+    "rows": 1000,
+    "refreshRate": 60,
+    "fail": false,
+    "cpu": 16,
+    "fps": 164
+  },
+  {
+    "columns": 5000,
+    "rows": 5000,
+    "refreshRate": 10,
+    "fail": false,
+    "cpu": 50,
+    "fps": 11
+  },
+  {
+    "columns": 10000,
+    "rows": 10000,
+    "refreshRate": 10,
+    "fail": false,
+    "cpu": 100,
+    "fps": 1
+  }
+]

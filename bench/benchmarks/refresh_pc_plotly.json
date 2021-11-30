@@ -1,0 +1,51 @@
+[
+    {
+        "_TEMPLATE": true,
+        "columns": 0,
+        "rows": 0,
+        "refreshRate": 0,
+        "fail": false,
+        "cpu": 0,
+        "fps": 0
+    },
+    {
+        "columns": 25,
+        "rows": 25,
+        "refreshRate": 10,
+        "fail": false,
+        "cpu": 66.7,
+        "fps": 39.0
+    },
+    {
+        "columns": 50,
+        "rows": 50,
+        "refreshRate": 10,
+        "fail": false,
+        "cpu": 68.2,
+        "fps": 37.0
+    },
+    {
+        "columns": 100,
+        "rows": 100,
+        "refreshRate": 10,
+        "fail": false,
+        "cpu": 73.7,
+        "fps": 33.3
+    },
+    {
+        "columns": 200,
+        "rows": 200,
+        "refreshRate": 10,
+        "fail": false,
+        "cpu": 95.6,
+        "fps": 23.7
+    },
+    {
+        "columns": 500,
+        "rows": 500,
+        "refreshRate": 10,
+        "fail": false,
+        "cpu": 100,
+        "fps": 2.4
+    }
+]

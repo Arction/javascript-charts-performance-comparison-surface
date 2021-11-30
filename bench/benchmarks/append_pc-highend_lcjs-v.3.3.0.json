@@ -1,0 +1,100 @@
+[
+  {
+    "appendSampleSize": 100,
+    "appendNewSamplesPerSecond": 100,
+    "fail": false,
+    "cpu": 7,
+    "fps": 164
+  },
+  {
+    "appendSampleSize": 500,
+    "appendNewSamplesPerSecond": 100,
+    "fail": false,
+    "cpu": 7,
+    "fps": 164
+  },
+  {
+    "appendSampleSize": 100,
+    "appendNewSamplesPerSecond": 500,
+    "fail": false,
+    "cpu": 3.5,
+    "fps": 65
+  },
+  {
+    "appendSampleSize": 2048,
+    "appendNewSamplesPerSecond": 2048,
+    "fail": false,
+    "cpu": 100,
+    "fps": 2.5
+  },
+  {
+    "appendSampleSize": 2048,
+    "appendNewSamplesPerSecond": 1048,
+    "fail": false,
+    "cpu": 1,
+    "fps": 5
+  },
+  {
+    "appendSampleSize": 1048,
+    "appendNewSamplesPerSecond": 1048,
+    "fail": false,
+    "cpu": 1,
+    "fps": 10
+  },
+  {
+    "appendSampleSize": 1048,
+    "appendNewSamplesPerSecond": 512,
+    "fail": false,
+    "cpu": 1.5,
+    "fps": 20
+  },
+  {
+    "appendSampleSize": 2048,
+    "appendNewSamplesPerSecond": 10,
+    "fail": false,
+    "cpu": 1.5,
+    "fps": 10
+  },
+  {
+    "appendSampleSize": 2000,
+    "appendNewSamplesPerSecond": 100,
+    "fail": false,
+    "cpu": 2.5,
+    "fps": 55
+  },
+  {
+    "appendSampleSize": 2000,
+    "appendNewSamplesPerSecond": 200,
+    "fail": false,
+    "cpu": 2,
+    "fps": 30
+  },
+  {
+    "appendSampleSize": 2000,
+    "appendNewSamplesPerSecond": 500,
+    "fail": false,
+    "cpu": 1.5,
+    "fps": 10
+  },
+  {
+    "appendSampleSize": 2000,
+    "appendNewSamplesPerSecond": 1000,
+    "fail": false,
+    "cpu": 1,
+    "fps": 5
+  },
+  {
+    "appendSampleSize": 4000,
+    "appendNewSamplesPerSecond": 500,
+    "fail": false,
+    "cpu": 1,
+    "fps": 2
+  },
+  {
+    "appendSampleSize": 50,
+    "appendNewSamplesPerSecond": 500,
+    "fail": false,
+    "cpu": 3,
+    "fps": 65
+  }
+]
